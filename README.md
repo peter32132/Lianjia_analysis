@@ -1,9 +1,9 @@
 # 链家数据分析示例
 
 ![](images/img1.png)
-
-![](images/img2.png)
 数据没有呈现出来，原因是代码有误
+![](images/img2.png)
+
 
 ![](images/img3.png)
 
